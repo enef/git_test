@@ -1,2 +1,1 @@
-no robimy zmiane hehe
-i jeszcze
+Testuje gita
